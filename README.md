@@ -19,6 +19,11 @@ Usage
  - Select **Material Drawer Activity**
  - Select the styles/layout you want in your application
  - Click **Finish**
+ 
+ On Navigation Style there are 3 different styles:
 
 
-**More information on my blog**: [http://androidshenanigans.blogspot.pt](http://androidshenanigans.blogspot.pt/2015/03/material-design-template.html)
+Change NavigationDrawerFragment.getMenu() method in order to add, remove or change the contents of the menu
+
+Change onNavigationDrawerItemSelected to change your menu behavior
+
